@@ -11,7 +11,7 @@ int main()
   
     struct node *a,*b,*c;
 
-    //Implement task 1 here
+    //Implement 
     a = malloc(sizeof(node));
     b = malloc(sizeof(node));
     c = malloc(sizeof(node));
